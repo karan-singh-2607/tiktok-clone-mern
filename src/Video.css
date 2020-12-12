@@ -1,0 +1,13 @@
+.List__Videos {
+    position: relative;
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+    scroll-snap-align: start;
+}
+
+.Video__Player {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
